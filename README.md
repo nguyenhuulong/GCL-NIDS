@@ -36,7 +36,7 @@ Thí nghiệm sử dụng các bộ dữ liệu:
 Do dung lượng lớn, dữ liệu không được đính kèm trong repo.  
 Người dùng cần tải thủ công từ link sau:  
 
-👉 **[Tải dữ liệu từ Google Drive](LINK_UPDATING)**  
+👉 **[Tải dữ liệu từ Google Drive](https://drive.google.com/file/d/1JbczFchDfqDEgEWxpI2OFSuBPh9k-fgP/view?usp=sharing)**  
 
 Sau khi tải về:
 - Giải nén dữ liệu trong `processed.zip`  
